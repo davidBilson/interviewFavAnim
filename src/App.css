@@ -1,0 +1,52 @@
+*, body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+img {
+  width: 100%;
+  display: block;
+  margin-top: 3rem;
+}
+nav {
+  padding: 4rem;
+  font-size: 2rem;
+  font-weight: 700;
+  background: darkslategray;
+  color: beige;
+}
+.container {
+  max-width: 600px;
+  padding: 3rem 1rem;
+  margin: 1rem auto;
+  text-align: center;
+  font-weight: 600;
+}
+.container h2 {
+  font-size: 2rem;
+  color: darkslategray;
+  margin-bottom: 2rem;
+}
+.submit {
+  border: none;
+  outline: none;
+  padding: 1rem 4rem;
+  background: darkslategrey;
+  color: whitesmoke;
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-top: 1rem;
+}
+.text {
+  padding: .5rem;
+  width: 20rem;
+  background: beige;
+  margin-top: 1rem;
+}
+.submit {
+  padding: .5rem;
+  width: 20rem;
+  background: darkslategray;
+  color: white;
+}
