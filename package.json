@@ -1,7 +1,7 @@
 {
   "name": "favorite-animal",
   "private": true,
-  "homepage": "https://davidBilson.github.io/favoriteAnimal",
+  "homepage": "https://davidBilson.github.io/animalFavorite",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
